@@ -14,11 +14,9 @@ For more details, visit the [official Amulet website](https://www.amuletmc.com/)
 
 ## Structure List
 
-- **Structure Name**: *Brief description of the structure.*
-- **Structure Name**: *Brief description of the structure.*
-
-*Add more structures as needed.*
-
+- **Goku39590**: *My game character statue*
+- **Pirate ship**: *have your own pirate ship*
+- 
 ## Usage
 
 To incorporate these structures into your Minecraft world:
